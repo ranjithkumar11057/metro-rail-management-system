@@ -1,0 +1,1001 @@
+﻿Maintenance Id,Train Id,Employee Id,Maintenance Date,Issue Reported,Maintenance Cost,Status
+1,137,152,2025-04-02,Door Sensor Fault,16344.47,Pending
+2,87,414,2025-08-15,Wheel Alignment,46943.73,Completed
+3,34,317,2025-09-27,Wheel Alignment,37549.52,Pending
+4,139,199,2025-07-24,Door Sensor Fault,25966.98,Completed
+5,10,446,2024-02-29,Wheel Alignment,3976.73,Pending
+6,66,45,2025-01-10,Signal Check,18445.9,Pending
+7,138,224,2024-06-27,AC Repair,15147.87,Completed
+8,4,381,2023-08-14,Brake Inspection,29584.98,Completed
+9,63,330,2025-04-23,AC Repair,1598.62,Pending
+10,128,243,2024-08-28,Brake Inspection,22902.94,Completed
+11,19,344,2023-12-07,AC Repair,26080.38,Completed
+12,18,102,2025-01-26,Door Sensor Fault,34997.32,Completed
+13,83,353,2024-08-02,Brake Inspection,2935.29,Completed
+14,65,151,2024-06-30,Wheel Alignment,40335.14,Completed
+15,34,218,2024-12-16,Signal Check,21417.02,Pending
+16,112,462,2023-02-21,Door Sensor Fault,5022.9,Pending
+17,79,91,2024-02-28,AC Repair,19940.99,Pending
+18,77,480,2025-08-18,AC Repair,44779.89,Completed
+19,52,153,2025-02-26,AC Repair,7174.14,Completed
+20,93,450,2025-03-08,Signal Check,5324.17,Completed
+21,113,301,2024-10-05,Door Sensor Fault,24826.79,Pending
+22,69,6,2024-03-23,AC Repair,27482.7,Completed
+23,98,47,2023-07-16,Brake Inspection,32750.07,Pending
+24,17,62,2024-06-21,Signal Check,30413.35,Completed
+25,98,471,2024-10-09,AC Repair,6455.67,Completed
+26,132,113,2024-07-08,AC Repair,28185.11,Pending
+27,46,445,2023-07-10,Brake Inspection,27364.77,Pending
+28,2,352,2025-03-26,Brake Inspection,23750.9,Completed
+29,3,499,2024-06-08,Door Sensor Fault,6876.82,Completed
+30,116,230,2025-08-23,Door Sensor Fault,1708.44,Completed
+31,78,82,2025-03-04,Wheel Alignment,23688.28,Pending
+32,72,91,2025-01-23,Door Sensor Fault,40268.59,Pending
+33,92,243,2024-10-31,Door Sensor Fault,16219.5,Completed
+34,34,44,2023-12-21,Door Sensor Fault,31435.41,Pending
+35,56,57,2025-02-13,Signal Check,47184.51,Pending
+36,55,476,2024-05-27,AC Repair,7882.56,Pending
+37,131,292,2023-12-10,Wheel Alignment,20162.82,Completed
+38,115,83,2025-05-29,Signal Check,12871.49,Pending
+39,73,455,2024-03-20,Wheel Alignment,31106.49,Completed
+40,88,212,2023-05-06,AC Repair,27985.98,Completed
+41,30,175,2023-07-16,Brake Inspection,13037.34,Pending
+42,21,138,2024-02-10,AC Repair,36106.58,Pending
+43,80,32,2025-08-06,Brake Inspection,49122.02,Completed
+44,139,338,2024-08-08,Door Sensor Fault,11255.74,Pending
+45,138,112,2023-09-08,Signal Check,49710.87,Completed
+46,88,250,2025-04-13,Brake Inspection,47390.44,Pending
+47,120,457,2024-05-06,Signal Check,27406.13,Pending
+48,91,191,2023-11-29,Signal Check,8438.56,Completed
+49,122,53,2024-09-14,Brake Inspection,23775.04,Pending
+50,45,131,2024-09-20,Brake Inspection,14827.09,Pending
+51,96,484,2023-05-03,Brake Inspection,1652.1,Pending
+52,126,198,2025-01-09,AC Repair,31158.76,Pending
+53,79,496,2025-03-22,Wheel Alignment,45767.84,Completed
+54,25,416,2025-07-06,Brake Inspection,21327.46,Pending
+55,133,478,2023-01-31,AC Repair,29301.16,Completed
+56,66,253,2025-07-05,Door Sensor Fault,37196.29,Completed
+57,73,193,2024-08-27,AC Repair,48095.36,Pending
+58,51,320,2025-08-17,Signal Check,36997.45,Pending
+59,141,425,2024-04-16,Wheel Alignment,39960.21,Completed
+60,74,497,2024-05-22,Signal Check,27743.51,Completed
+61,101,478,2024-03-10,Brake Inspection,5709.21,Completed
+62,146,368,2023-05-11,Door Sensor Fault,37316.84,Completed
+63,58,164,2023-12-30,Signal Check,23328.05,Pending
+64,51,150,2024-05-12,Signal Check,31452.52,Completed
+65,87,197,2023-02-19,Signal Check,27331.53,Completed
+66,46,216,2024-09-20,Brake Inspection,32578.99,Pending
+67,116,94,2023-08-17,AC Repair,48465.29,Completed
+68,121,73,2023-06-22,Door Sensor Fault,29861,Pending
+69,109,407,2024-04-06,Signal Check,40325.69,Pending
+70,71,115,2024-02-08,AC Repair,32520.04,Completed
+71,64,85,2024-05-24,Wheel Alignment,11107.45,Pending
+72,8,475,2025-07-20,Signal Check,23441.19,Completed
+73,19,52,2023-10-08,Signal Check,49437.23,Completed
+74,132,219,2023-12-20,AC Repair,45438.61,Completed
+75,149,146,2025-05-10,Signal Check,10109.73,Completed
+76,144,185,2024-05-28,Door Sensor Fault,40704.34,Pending
+77,26,358,2023-04-23,Brake Inspection,14328.87,Pending
+78,69,40,2024-02-07,Brake Inspection,22555.1,Completed
+79,71,73,2023-11-30,AC Repair,44761.68,Pending
+80,83,487,2025-04-27,Door Sensor Fault,8419.96,Completed
+81,68,371,2023-10-04,AC Repair,38870.83,Pending
+82,38,478,2024-08-19,Door Sensor Fault,24253.32,Completed
+83,129,61,2025-02-26,AC Repair,34311.51,Completed
+84,102,366,2023-11-07,AC Repair,40607.22,Completed
+85,92,365,2025-03-01,Wheel Alignment,33000.79,Pending
+86,94,451,2023-02-27,Door Sensor Fault,43009.18,Pending
+87,45,467,2024-09-23,Door Sensor Fault,18550.84,Pending
+88,122,335,2023-04-09,Signal Check,49003.38,Completed
+89,44,165,2023-09-09,AC Repair,9097.19,Pending
+90,124,434,2024-08-04,Brake Inspection,42472.37,Completed
+91,150,390,2025-02-15,Wheel Alignment,25249.81,Pending
+92,32,164,2023-11-08,Door Sensor Fault,22302.39,Completed
+93,134,458,2025-06-12,Door Sensor Fault,15938.22,Completed
+94,68,327,2025-01-03,Wheel Alignment,28200.77,Completed
+95,48,332,2024-12-12,Door Sensor Fault,47668.03,Completed
+96,1,17,2023-07-16,Signal Check,43063.79,Completed
+97,40,201,2024-01-13,Wheel Alignment,27111.48,Completed
+98,12,169,2024-10-25,Signal Check,33983.47,Pending
+99,31,346,2024-02-25,Wheel Alignment,38737.63,Completed
+100,49,464,2024-06-24,Brake Inspection,29049.57,Completed
+101,149,186,2025-02-06,Door Sensor Fault,17600.89,Pending
+102,42,260,2023-05-27,Wheel Alignment,6345.95,Completed
+103,68,344,2025-04-15,Door Sensor Fault,26124.44,Completed
+104,109,98,2024-04-22,Wheel Alignment,39180.92,Completed
+105,96,336,2024-01-07,Wheel Alignment,6051.99,Pending
+106,113,4,2024-10-02,AC Repair,48627.82,Pending
+107,34,428,2025-08-12,AC Repair,30573.11,Pending
+108,102,366,2023-10-25,Brake Inspection,48556.87,Completed
+109,36,197,2025-01-11,Brake Inspection,34834.79,Pending
+110,7,216,2024-02-20,Signal Check,41404.66,Pending
+111,96,428,2025-06-14,AC Repair,7033.98,Pending
+112,8,404,2023-11-09,Wheel Alignment,27168.25,Completed
+113,23,184,2023-08-27,Brake Inspection,14761.29,Pending
+114,63,89,2024-03-01,AC Repair,35065.56,Pending
+115,61,438,2024-01-12,Door Sensor Fault,29967.98,Pending
+116,143,344,2023-06-19,Wheel Alignment,4954.26,Pending
+117,7,56,2024-10-30,Door Sensor Fault,3961.96,Pending
+118,109,180,2024-10-17,Brake Inspection,9150.99,Completed
+119,108,149,2024-01-24,Signal Check,9947.1,Completed
+120,126,4,2023-03-15,Brake Inspection,26651.01,Pending
+121,89,118,2025-01-16,Signal Check,23165.95,Completed
+122,51,424,2024-09-26,AC Repair,45039.02,Completed
+123,109,394,2023-05-07,Signal Check,49816.37,Pending
+124,80,474,2024-08-24,AC Repair,9720.4,Pending
+125,3,90,2025-03-31,Door Sensor Fault,35845.31,Completed
+126,144,3,2025-07-13,Door Sensor Fault,44250.64,Completed
+127,20,444,2024-03-26,Signal Check,17804.13,Completed
+128,104,286,2023-05-01,AC Repair,17049.77,Completed
+129,3,318,2024-10-21,Brake Inspection,45592.96,Completed
+130,14,394,2024-05-10,Door Sensor Fault,17627.34,Pending
+131,97,149,2024-12-26,Door Sensor Fault,2578.45,Pending
+132,8,387,2023-12-11,Brake Inspection,41304.25,Pending
+133,110,316,2024-08-13,Wheel Alignment,20147.59,Completed
+134,59,284,2023-02-14,Door Sensor Fault,1721.79,Pending
+135,110,214,2024-02-18,Signal Check,4665,Pending
+136,27,336,2024-10-10,Brake Inspection,14946.54,Completed
+137,104,326,2024-02-12,Wheel Alignment,7910.9,Pending
+138,25,141,2023-02-09,Door Sensor Fault,37121.22,Completed
+139,17,128,2025-01-02,Door Sensor Fault,28013.49,Completed
+140,150,485,2023-10-17,Wheel Alignment,2712.77,Pending
+141,17,264,2024-08-05,Brake Inspection,17494.01,Pending
+142,95,481,2024-03-06,Door Sensor Fault,20179.89,Pending
+143,47,321,2025-09-23,Brake Inspection,7435.5,Pending
+144,13,173,2025-03-30,Wheel Alignment,49869.86,Pending
+145,63,459,2023-07-17,Wheel Alignment,3787.07,Pending
+146,16,399,2024-11-26,AC Repair,22807.75,Pending
+147,74,398,2024-06-05,Door Sensor Fault,47470.13,Pending
+148,15,373,2023-11-30,Wheel Alignment,47225.17,Completed
+149,50,411,2024-05-31,Door Sensor Fault,35912.9,Completed
+150,52,309,2023-08-06,Door Sensor Fault,49398.94,Pending
+151,75,420,2023-11-10,Signal Check,2314.37,Completed
+152,34,172,2023-10-18,Door Sensor Fault,23278.06,Completed
+153,80,291,2025-08-01,AC Repair,12804.7,Pending
+154,21,21,2025-03-16,AC Repair,9544.51,Completed
+155,4,206,2025-01-04,Wheel Alignment,35442.1,Completed
+156,41,347,2024-08-06,Door Sensor Fault,5481.06,Pending
+157,76,386,2023-05-27,Wheel Alignment,48727.75,Pending
+158,148,346,2025-06-14,Wheel Alignment,27145.12,Completed
+159,57,78,2025-02-27,Signal Check,34418.87,Pending
+160,129,327,2023-10-28,Brake Inspection,30236.86,Completed
+161,140,214,2023-10-11,AC Repair,32849.44,Pending
+162,8,267,2024-01-02,Door Sensor Fault,38584.57,Pending
+163,105,105,2023-06-09,Brake Inspection,23947.44,Pending
+164,107,235,2025-03-20,Wheel Alignment,44042.02,Pending
+165,100,355,2023-04-18,Door Sensor Fault,15527.78,Completed
+166,63,54,2024-12-10,Door Sensor Fault,2418.82,Completed
+167,150,227,2023-03-01,Brake Inspection,4142.66,Pending
+168,6,296,2024-12-20,Signal Check,17253.59,Completed
+169,105,290,2023-06-11,Wheel Alignment,9688.3,Completed
+170,108,491,2024-04-09,AC Repair,46559.95,Completed
+171,59,361,2025-08-12,Door Sensor Fault,16463.14,Pending
+172,18,89,2023-08-01,Wheel Alignment,9649.71,Completed
+173,13,194,2024-11-11,Signal Check,11431.92,Pending
+174,80,365,2023-08-31,Brake Inspection,46755.01,Pending
+175,62,10,2023-10-20,Signal Check,22020.4,Pending
+176,26,147,2025-09-27,AC Repair,27958.7,Completed
+177,23,451,2024-11-29,AC Repair,49187.26,Completed
+178,135,254,2025-01-08,Door Sensor Fault,13845.09,Pending
+179,6,192,2025-05-29,Door Sensor Fault,35798.6,Completed
+180,87,175,2023-09-07,Brake Inspection,16210.36,Completed
+181,92,58,2024-12-25,AC Repair,39345.56,Pending
+182,131,481,2024-05-24,AC Repair,9055.83,Pending
+183,52,441,2025-05-09,AC Repair,1208,Completed
+184,68,500,2023-04-17,Brake Inspection,14045.85,Completed
+185,20,341,2024-09-28,Wheel Alignment,35785.05,Pending
+186,58,91,2025-08-14,Door Sensor Fault,7872.89,Pending
+187,13,95,2023-10-05,Wheel Alignment,42400.29,Pending
+188,31,146,2023-06-23,AC Repair,20413.44,Pending
+189,33,446,2024-06-04,AC Repair,13019.71,Completed
+190,85,208,2025-04-17,Door Sensor Fault,22357.96,Completed
+191,40,3,2023-03-29,Brake Inspection,36430.61,Pending
+192,21,294,2023-10-24,AC Repair,27264.66,Pending
+193,79,445,2024-07-13,AC Repair,39689.48,Pending
+194,126,417,2024-06-09,Door Sensor Fault,8595.32,Completed
+195,138,474,2024-02-28,Signal Check,12887.21,Pending
+196,38,327,2024-10-29,Signal Check,14689.84,Completed
+197,15,71,2024-07-29,Signal Check,43880.42,Pending
+198,67,240,2025-06-01,Signal Check,48602.25,Completed
+199,143,277,2024-11-10,Wheel Alignment,6129.35,Pending
+200,18,267,2024-02-04,Wheel Alignment,16879.17,Pending
+201,138,304,2024-12-15,Signal Check,35116.69,Completed
+202,29,366,2025-08-08,Brake Inspection,19356.3,Pending
+203,48,304,2023-04-10,Door Sensor Fault,43610.85,Completed
+204,18,93,2023-04-08,AC Repair,37297.17,Completed
+205,31,455,2023-05-30,Door Sensor Fault,15657.15,Pending
+206,130,406,2025-02-11,Door Sensor Fault,39726.36,Pending
+207,66,276,2024-08-05,Signal Check,24586.45,Pending
+208,91,420,2023-10-08,Wheel Alignment,9050.56,Completed
+209,27,234,2023-06-16,Brake Inspection,43255.46,Completed
+210,15,422,2023-07-24,Brake Inspection,3626.52,Pending
+211,75,52,2023-03-30,Brake Inspection,43296.49,Pending
+212,7,401,2024-04-15,Signal Check,23514.26,Completed
+213,71,6,2024-06-23,Door Sensor Fault,7551.85,Completed
+214,139,256,2024-07-16,Door Sensor Fault,13217.51,Completed
+215,44,122,2023-07-10,Signal Check,23671.47,Completed
+216,131,330,2023-10-07,Signal Check,3096.84,Completed
+217,8,19,2025-02-06,AC Repair,17699.56,Pending
+218,64,19,2024-07-14,AC Repair,27658.57,Completed
+219,76,84,2025-05-22,Wheel Alignment,31876.07,Pending
+220,69,330,2025-06-20,AC Repair,14588.97,Pending
+221,15,114,2025-09-07,Brake Inspection,40745.7,Completed
+222,100,136,2023-08-06,Door Sensor Fault,37572.9,Completed
+223,60,464,2023-10-18,Signal Check,3443.07,Completed
+224,79,164,2024-11-11,AC Repair,49068.91,Pending
+225,134,8,2023-07-15,AC Repair,28791.95,Pending
+226,116,319,2023-05-20,Signal Check,27731.06,Pending
+227,112,365,2025-03-23,Brake Inspection,8346.89,Completed
+228,20,46,2023-07-28,Wheel Alignment,49830.28,Pending
+229,58,360,2023-06-10,Brake Inspection,44506.56,Completed
+230,144,493,2024-10-05,AC Repair,32811.36,Pending
+231,125,188,2024-02-21,Wheel Alignment,40435.07,Completed
+232,31,449,2023-09-08,Signal Check,41383.49,Completed
+233,47,63,2025-03-26,Wheel Alignment,13160.67,Completed
+234,149,49,2024-10-26,Wheel Alignment,19532.89,Pending
+235,145,246,2024-05-01,AC Repair,8813.76,Completed
+236,56,42,2023-12-05,Brake Inspection,23038.54,Pending
+237,73,433,2024-07-11,Door Sensor Fault,8501.49,Completed
+238,118,235,2025-06-21,Wheel Alignment,32427.3,Completed
+239,15,302,2025-03-15,Wheel Alignment,38369.45,Completed
+240,33,469,2025-04-09,Brake Inspection,23071.93,Completed
+241,26,446,2023-07-22,Door Sensor Fault,3164.04,Pending
+242,108,227,2025-09-13,AC Repair,27489.19,Completed
+243,118,95,2023-10-14,Brake Inspection,17817.76,Pending
+244,111,229,2025-08-26,AC Repair,13432.18,Completed
+245,5,423,2023-02-12,Wheel Alignment,22921.31,Pending
+246,107,313,2025-02-08,Brake Inspection,10820.22,Pending
+247,83,258,2024-10-07,Wheel Alignment,46902.65,Completed
+248,94,352,2024-10-30,Signal Check,17589.9,Completed
+249,30,430,2024-04-22,Signal Check,38648.54,Completed
+250,76,326,2023-10-11,Wheel Alignment,49709.36,Pending
+251,104,406,2023-03-25,Door Sensor Fault,24202.51,Pending
+252,135,133,2024-03-12,Signal Check,30849.43,Pending
+253,34,41,2024-10-27,Brake Inspection,12181.8,Completed
+254,104,182,2023-01-19,Door Sensor Fault,14405.12,Completed
+255,95,400,2024-09-02,Wheel Alignment,47788.56,Completed
+256,35,497,2024-07-26,Door Sensor Fault,16149.09,Pending
+257,56,460,2023-09-16,Signal Check,24166.39,Pending
+258,48,144,2025-02-18,Brake Inspection,39458.63,Pending
+259,74,364,2024-08-31,Wheel Alignment,4277.87,Completed
+260,28,255,2025-02-09,Door Sensor Fault,18359.84,Pending
+261,14,57,2023-02-28,AC Repair,37640.58,Pending
+262,118,499,2025-08-30,AC Repair,47765.51,Pending
+263,11,247,2025-05-08,Signal Check,34450.88,Completed
+264,86,348,2023-11-28,Brake Inspection,43427.63,Pending
+265,40,77,2025-04-21,Signal Check,16022.42,Completed
+266,61,162,2025-08-25,AC Repair,43826.61,Pending
+267,53,103,2025-01-18,AC Repair,21644.33,Pending
+268,100,39,2025-09-24,Brake Inspection,44013.83,Pending
+269,11,342,2023-11-03,Wheel Alignment,18605.49,Pending
+270,111,73,2024-08-10,Signal Check,23271.03,Completed
+271,19,192,2025-01-21,AC Repair,45139.73,Pending
+272,149,320,2024-08-30,Signal Check,28207.69,Pending
+273,142,107,2024-04-29,Wheel Alignment,10394.94,Completed
+274,134,280,2023-07-17,Door Sensor Fault,29634.13,Completed
+275,141,43,2023-10-04,Wheel Alignment,39672.23,Completed
+276,28,453,2025-05-24,Door Sensor Fault,48377.65,Pending
+277,99,55,2025-08-14,Wheel Alignment,18230.62,Completed
+278,91,426,2025-07-03,Brake Inspection,2742.44,Pending
+279,104,459,2025-04-13,Door Sensor Fault,10961.74,Pending
+280,115,413,2025-03-20,Wheel Alignment,12140.81,Completed
+281,12,21,2024-11-03,Wheel Alignment,47925.23,Completed
+282,2,39,2023-10-17,Wheel Alignment,22763.03,Completed
+283,49,164,2024-11-04,Door Sensor Fault,40833.99,Completed
+284,139,405,2025-06-29,Wheel Alignment,31376.49,Completed
+285,97,233,2024-02-05,Door Sensor Fault,10802.82,Completed
+286,121,304,2023-02-07,Door Sensor Fault,6414.45,Completed
+287,44,347,2023-03-23,Door Sensor Fault,14692.84,Pending
+288,76,462,2025-02-08,Door Sensor Fault,18491.76,Pending
+289,96,232,2024-04-04,Brake Inspection,36975.11,Completed
+290,7,306,2025-05-29,AC Repair,36006.58,Completed
+291,53,1,2023-04-03,Wheel Alignment,5701.52,Completed
+292,19,475,2023-02-06,Door Sensor Fault,33345.19,Pending
+293,15,78,2025-01-21,Brake Inspection,1021.98,Pending
+294,34,145,2023-03-12,AC Repair,49637.54,Pending
+295,93,331,2024-12-16,Door Sensor Fault,5837.28,Completed
+296,109,101,2024-08-13,Wheel Alignment,3253,Completed
+297,112,237,2024-03-22,AC Repair,8647.11,Completed
+298,125,378,2025-05-04,AC Repair,49970.19,Completed
+299,55,81,2024-02-08,Wheel Alignment,40976.37,Completed
+300,51,7,2025-02-07,Wheel Alignment,1452.48,Pending
+301,131,13,2023-10-22,Brake Inspection,33923.44,Completed
+302,129,263,2024-05-10,Door Sensor Fault,49779.75,Completed
+303,73,244,2024-03-27,AC Repair,24562.7,Completed
+304,84,82,2025-02-04,Door Sensor Fault,15000.37,Completed
+305,17,170,2023-10-17,Signal Check,21318.79,Pending
+306,43,38,2025-09-14,AC Repair,23920.82,Completed
+307,113,360,2025-09-10,Wheel Alignment,17125.34,Completed
+308,139,396,2025-07-20,Signal Check,35197.04,Completed
+309,1,140,2025-08-10,AC Repair,3753.52,Completed
+310,100,424,2025-02-11,Wheel Alignment,19835.61,Pending
+311,30,346,2023-08-14,AC Repair,25704.26,Completed
+312,7,201,2023-09-02,Brake Inspection,4063.48,Pending
+313,131,340,2025-05-13,Signal Check,39415.46,Completed
+314,113,402,2025-01-10,Signal Check,47665.21,Completed
+315,11,57,2024-11-20,Door Sensor Fault,48168.4,Completed
+316,79,115,2024-05-15,Door Sensor Fault,44762.16,Pending
+317,4,370,2024-02-25,Door Sensor Fault,21639.33,Completed
+318,59,164,2025-05-19,Wheel Alignment,41525.24,Completed
+319,67,383,2025-03-23,Wheel Alignment,29959.47,Completed
+320,61,98,2023-03-04,Door Sensor Fault,33858.7,Completed
+321,52,277,2025-06-03,Door Sensor Fault,7014.23,Pending
+322,119,399,2025-06-13,Door Sensor Fault,15142.74,Completed
+323,41,446,2025-06-16,AC Repair,5123.71,Completed
+324,15,408,2023-06-05,Brake Inspection,11846.2,Pending
+325,125,195,2025-04-25,Door Sensor Fault,26236,Pending
+326,54,224,2024-10-17,Wheel Alignment,6937.59,Pending
+327,93,49,2024-03-25,AC Repair,43617.32,Pending
+328,63,337,2024-12-26,Signal Check,26686.03,Completed
+329,100,285,2023-07-11,Brake Inspection,21185.92,Completed
+330,32,363,2024-09-15,Signal Check,39184.8,Pending
+331,58,199,2025-09-16,Door Sensor Fault,29418.42,Pending
+332,101,446,2025-08-16,AC Repair,13515.65,Pending
+333,121,295,2025-07-20,Signal Check,6231.23,Completed
+334,16,55,2024-04-04,Door Sensor Fault,45717.76,Pending
+335,115,68,2023-11-12,Wheel Alignment,10234.98,Pending
+336,103,90,2025-08-10,AC Repair,27807.46,Pending
+337,33,49,2024-10-07,Wheel Alignment,6797.85,Pending
+338,29,1,2025-08-11,Door Sensor Fault,4882.15,Pending
+339,86,10,2023-02-27,Wheel Alignment,1716.32,Pending
+340,126,43,2023-12-31,Brake Inspection,48969.48,Completed
+341,68,16,2025-07-25,Signal Check,39244.23,Completed
+342,72,125,2024-03-16,Door Sensor Fault,33387.73,Pending
+343,115,383,2023-05-20,Wheel Alignment,5573.78,Completed
+344,47,326,2024-05-25,Signal Check,44077.29,Pending
+345,121,370,2025-01-27,AC Repair,13711.6,Pending
+346,130,432,2025-07-23,Wheel Alignment,33328,Completed
+347,146,183,2023-03-10,Door Sensor Fault,41741.88,Completed
+348,66,217,2024-04-06,Signal Check,27267.63,Completed
+349,112,426,2025-01-30,Wheel Alignment,44533.97,Pending
+350,12,456,2023-06-01,Brake Inspection,29518.67,Completed
+351,22,360,2023-12-13,Signal Check,8210.44,Completed
+352,2,104,2024-03-27,Wheel Alignment,10542.36,Pending
+353,40,292,2025-08-05,Brake Inspection,22078.24,Pending
+354,17,186,2024-02-05,Brake Inspection,36776.06,Pending
+355,14,473,2024-12-02,Wheel Alignment,4198.92,Completed
+356,58,363,2024-06-12,Wheel Alignment,27140.83,Completed
+357,139,350,2023-04-23,Brake Inspection,42192.79,Pending
+358,123,424,2024-10-18,AC Repair,48501.79,Completed
+359,128,401,2024-06-03,Door Sensor Fault,41704.72,Pending
+360,134,59,2025-08-21,AC Repair,42695.25,Completed
+361,100,257,2024-12-10,AC Repair,49783.78,Pending
+362,108,20,2024-04-24,Door Sensor Fault,38477.33,Completed
+363,72,360,2025-09-13,Door Sensor Fault,8744.61,Completed
+364,87,71,2024-02-29,AC Repair,35177.92,Completed
+365,41,320,2023-03-29,Brake Inspection,13111.41,Pending
+366,121,435,2025-06-17,Signal Check,7889.1,Completed
+367,55,418,2023-09-03,Door Sensor Fault,16803.35,Completed
+368,3,416,2025-06-09,Brake Inspection,47471.03,Pending
+369,109,238,2023-02-26,Signal Check,9919.12,Pending
+370,109,288,2023-10-10,Wheel Alignment,9399.04,Completed
+371,113,391,2023-10-11,Signal Check,30663.06,Completed
+372,46,340,2024-10-30,Door Sensor Fault,11895.27,Pending
+373,94,111,2024-08-13,Door Sensor Fault,1211.62,Completed
+374,86,488,2025-05-16,Signal Check,33576.56,Pending
+375,104,129,2025-07-23,Signal Check,21635.11,Completed
+376,95,303,2025-06-14,Door Sensor Fault,21828.39,Pending
+377,74,433,2023-10-06,AC Repair,38165.52,Pending
+378,112,482,2024-12-19,Wheel Alignment,10097.31,Pending
+379,74,409,2024-06-13,Signal Check,27993,Completed
+380,54,216,2023-05-14,Signal Check,23689.61,Completed
+381,94,368,2023-03-03,Door Sensor Fault,33702.35,Completed
+382,42,346,2025-04-05,Wheel Alignment,1288.91,Pending
+383,76,470,2024-01-01,Wheel Alignment,47094.79,Pending
+384,71,248,2024-06-07,Signal Check,41944.19,Pending
+385,139,115,2023-09-12,Brake Inspection,2912.18,Completed
+386,45,456,2023-01-25,Wheel Alignment,1942.51,Completed
+387,147,216,2024-09-01,Signal Check,44910.31,Completed
+388,29,22,2025-06-20,Signal Check,23883.03,Pending
+389,34,215,2025-07-15,Wheel Alignment,49199.43,Completed
+390,99,99,2024-04-14,Wheel Alignment,37216.42,Pending
+391,135,270,2023-08-24,Door Sensor Fault,30636.19,Pending
+392,3,235,2023-01-13,Door Sensor Fault,40614.29,Pending
+393,120,167,2024-06-23,Brake Inspection,24640.27,Pending
+394,134,67,2024-03-03,Signal Check,16820.32,Completed
+395,106,450,2023-06-25,Brake Inspection,38413.7,Completed
+396,72,316,2023-03-02,Signal Check,13838.56,Pending
+397,19,90,2025-08-16,Door Sensor Fault,31302.52,Pending
+398,129,400,2025-08-18,Signal Check,9459.85,Pending
+399,36,423,2023-12-26,AC Repair,37052.97,Pending
+400,105,261,2023-05-16,Signal Check,7908.27,Pending
+401,47,391,2024-09-17,Door Sensor Fault,16162.61,Completed
+402,55,431,2025-08-13,Signal Check,21399.19,Completed
+403,57,431,2025-01-29,Wheel Alignment,36311.56,Pending
+404,26,302,2024-02-29,Signal Check,13588.58,Pending
+405,37,371,2023-01-30,Brake Inspection,7776.15,Completed
+406,27,311,2025-04-07,Brake Inspection,7564.15,Completed
+407,50,391,2023-11-15,Wheel Alignment,16440.74,Completed
+408,37,111,2024-08-17,Door Sensor Fault,34770.49,Completed
+409,39,110,2024-11-21,Door Sensor Fault,30842.29,Pending
+410,70,137,2025-05-31,Wheel Alignment,5939.24,Completed
+411,100,463,2023-11-02,Brake Inspection,19082.11,Completed
+412,95,495,2025-04-20,Signal Check,16328.79,Pending
+413,45,391,2024-12-08,Door Sensor Fault,48633.78,Pending
+414,6,141,2023-01-12,Door Sensor Fault,39647.65,Completed
+415,26,144,2025-02-23,Wheel Alignment,15220.74,Completed
+416,104,488,2023-02-25,Wheel Alignment,33286.54,Completed
+417,41,40,2025-01-09,Brake Inspection,4563.55,Completed
+418,149,342,2023-03-10,Door Sensor Fault,17033.86,Completed
+419,145,489,2023-10-22,Wheel Alignment,10033.39,Pending
+420,61,65,2023-07-31,Door Sensor Fault,44333.47,Pending
+421,59,386,2024-02-24,Signal Check,27773.4,Pending
+422,22,120,2024-12-21,Signal Check,19107.74,Pending
+423,44,488,2024-08-21,Brake Inspection,49250.62,Pending
+424,28,363,2024-02-21,Wheel Alignment,22065.89,Completed
+425,19,80,2023-09-11,Signal Check,9353.08,Completed
+426,132,74,2024-10-31,Signal Check,1464.2,Completed
+427,149,341,2025-05-17,Door Sensor Fault,12921.47,Completed
+428,31,364,2023-01-23,AC Repair,23535.77,Completed
+429,49,340,2025-05-15,Door Sensor Fault,40535.66,Pending
+430,5,65,2024-01-28,Wheel Alignment,10466.87,Completed
+431,28,284,2023-11-28,Door Sensor Fault,19256.69,Completed
+432,139,35,2024-06-02,Brake Inspection,35998.1,Completed
+433,132,457,2023-07-05,Brake Inspection,38418.15,Pending
+434,94,281,2023-03-20,Signal Check,21100.18,Pending
+435,37,433,2025-03-26,Door Sensor Fault,28434.56,Pending
+436,66,66,2023-04-20,Signal Check,38302.8,Pending
+437,9,333,2024-06-14,Door Sensor Fault,30556.73,Completed
+438,146,54,2023-01-25,Signal Check,9032.19,Pending
+439,42,163,2024-05-09,Brake Inspection,1002.8,Pending
+440,134,86,2025-06-11,Wheel Alignment,3793.06,Pending
+441,3,408,2023-12-09,Signal Check,5778.83,Completed
+442,14,419,2025-09-01,AC Repair,16353.33,Completed
+443,117,376,2023-06-08,AC Repair,26222.67,Pending
+444,121,242,2024-11-30,Signal Check,32315.97,Completed
+445,41,406,2025-03-04,Wheel Alignment,43445.65,Completed
+446,4,277,2023-02-06,Signal Check,22150.11,Pending
+447,51,80,2024-08-06,Door Sensor Fault,16621.51,Pending
+448,122,150,2024-05-09,Wheel Alignment,8356.09,Completed
+449,97,92,2025-04-24,Wheel Alignment,12728.91,Pending
+450,137,329,2023-05-03,Signal Check,25978.04,Completed
+451,34,322,2024-07-06,Door Sensor Fault,40565.4,Pending
+452,3,184,2025-05-07,Signal Check,5669.79,Completed
+453,31,60,2025-05-08,Wheel Alignment,17892.83,Pending
+454,134,56,2024-06-25,Signal Check,37490.11,Pending
+455,6,370,2023-08-07,AC Repair,33117.53,Pending
+456,144,426,2024-10-09,AC Repair,16954.54,Completed
+457,48,403,2024-07-05,Wheel Alignment,37964.49,Completed
+458,59,44,2025-08-10,AC Repair,9594.03,Completed
+459,144,271,2023-12-29,Brake Inspection,38054.38,Completed
+460,120,402,2025-01-20,AC Repair,39863.33,Pending
+461,147,314,2023-03-26,Brake Inspection,17205.04,Completed
+462,14,165,2023-04-23,Door Sensor Fault,6122.72,Pending
+463,115,262,2025-04-26,AC Repair,35274.8,Pending
+464,99,299,2023-08-27,Wheel Alignment,45395.65,Pending
+465,108,45,2024-12-26,AC Repair,24689.17,Pending
+466,59,118,2025-03-14,AC Repair,41637.96,Pending
+467,62,212,2024-04-15,Signal Check,49181.01,Pending
+468,23,50,2023-05-03,Signal Check,42366.3,Completed
+469,33,191,2024-02-22,Door Sensor Fault,35952.83,Completed
+470,133,42,2025-09-14,Brake Inspection,28177.46,Completed
+471,30,283,2024-08-29,AC Repair,13984.3,Completed
+472,5,64,2025-05-09,Signal Check,17512.07,Completed
+473,87,94,2024-11-15,Brake Inspection,12647.8,Pending
+474,32,255,2024-05-14,Door Sensor Fault,23130.04,Pending
+475,10,16,2023-03-02,AC Repair,18314.91,Completed
+476,47,317,2023-09-14,Door Sensor Fault,32696.22,Pending
+477,69,244,2024-08-21,AC Repair,19615.83,Pending
+478,43,443,2023-06-25,Wheel Alignment,22663.72,Completed
+479,69,89,2024-07-02,Wheel Alignment,48788.72,Pending
+480,50,49,2023-08-20,Door Sensor Fault,40372.96,Pending
+481,114,88,2024-01-28,AC Repair,15255.18,Completed
+482,101,166,2024-11-16,Door Sensor Fault,31968.87,Pending
+483,30,437,2024-10-17,Signal Check,31108.19,Pending
+484,3,102,2023-08-27,Door Sensor Fault,25016.12,Pending
+485,46,250,2023-06-13,Wheel Alignment,7084.6,Completed
+486,67,117,2023-07-05,Signal Check,14448.74,Completed
+487,69,64,2024-10-01,Brake Inspection,26670.84,Pending
+488,21,269,2024-10-03,Door Sensor Fault,30022.73,Completed
+489,55,258,2023-08-05,AC Repair,27487.24,Pending
+490,84,474,2023-08-10,Signal Check,12052.29,Pending
+491,9,16,2024-07-13,Signal Check,11576.82,Completed
+492,141,36,2024-03-23,Wheel Alignment,10699.68,Completed
+493,96,169,2024-06-01,Brake Inspection,4340.06,Completed
+494,72,147,2023-03-23,Wheel Alignment,37818.56,Completed
+495,7,139,2024-10-20,Wheel Alignment,4928.28,Completed
+496,119,121,2024-07-04,Door Sensor Fault,23201.01,Completed
+497,4,136,2023-01-26,Signal Check,1563.6,Completed
+498,49,217,2023-06-11,AC Repair,18400.35,Completed
+499,64,346,2024-05-24,Brake Inspection,35990.15,Pending
+500,1,437,2024-09-17,AC Repair,21271.03,Completed
+501,79,54,2023-02-17,Door Sensor Fault,14704.24,Completed
+502,45,209,2025-08-15,AC Repair,26133.82,Completed
+503,52,329,2023-11-28,Door Sensor Fault,33410.47,Completed
+504,96,307,2024-10-20,Signal Check,36117.75,Pending
+505,135,354,2024-09-05,Signal Check,21704.27,Completed
+506,108,283,2025-06-15,Brake Inspection,18583.86,Pending
+507,31,357,2023-06-12,Brake Inspection,28547.83,Pending
+508,150,359,2025-05-11,Signal Check,7982.71,Completed
+509,16,223,2023-08-31,Signal Check,36415.46,Pending
+510,139,101,2024-09-15,Signal Check,4547.18,Pending
+511,31,337,2023-08-06,Signal Check,26111.82,Completed
+512,116,114,2023-02-15,AC Repair,19221.07,Completed
+513,75,121,2023-12-08,AC Repair,14110.16,Completed
+514,45,114,2023-11-21,Wheel Alignment,29906.67,Pending
+515,26,288,2024-11-03,Signal Check,14733.46,Pending
+516,127,476,2023-02-22,Brake Inspection,17856.77,Completed
+517,65,291,2023-03-22,AC Repair,43404.62,Completed
+518,97,90,2025-06-12,Door Sensor Fault,25546.94,Completed
+519,120,487,2025-08-23,Signal Check,10101.8,Pending
+520,78,111,2025-07-22,Signal Check,43943.93,Pending
+521,2,2,2024-02-24,Wheel Alignment,3406.13,Pending
+522,54,60,2023-03-10,Door Sensor Fault,44474.04,Completed
+523,124,87,2025-03-11,Door Sensor Fault,8518.77,Pending
+524,100,260,2025-06-15,Signal Check,9477.05,Pending
+525,30,301,2025-07-17,Signal Check,20213.75,Completed
+526,121,241,2024-01-25,Signal Check,42666.63,Pending
+527,15,443,2024-02-11,AC Repair,13679.03,Pending
+528,106,137,2024-01-11,Wheel Alignment,14243.27,Pending
+529,95,356,2023-03-13,Signal Check,28116.7,Completed
+530,54,390,2025-01-21,Brake Inspection,12953.38,Pending
+531,77,303,2023-11-19,Door Sensor Fault,3012.26,Pending
+532,19,314,2023-02-08,AC Repair,5746.73,Pending
+533,130,116,2023-11-16,Signal Check,24175.51,Pending
+534,108,324,2024-02-04,AC Repair,14253.78,Pending
+535,73,253,2023-04-16,Wheel Alignment,27869.69,Completed
+536,150,203,2025-09-21,Door Sensor Fault,10854.2,Pending
+537,149,235,2025-01-10,Door Sensor Fault,34826.58,Pending
+538,131,487,2023-06-09,Signal Check,4210.07,Completed
+539,80,197,2023-05-28,Brake Inspection,40611.62,Completed
+540,128,179,2025-09-02,Signal Check,29837.41,Pending
+541,116,212,2024-04-09,Wheel Alignment,32460.62,Completed
+542,150,311,2023-02-21,Door Sensor Fault,11402.69,Completed
+543,144,91,2023-07-22,Wheel Alignment,36650.05,Completed
+544,14,144,2024-08-21,Signal Check,49206.53,Completed
+545,33,403,2023-10-11,Signal Check,17004.75,Pending
+546,9,490,2023-01-19,Brake Inspection,17551.95,Completed
+547,113,376,2024-12-13,Brake Inspection,18597.57,Pending
+548,39,460,2024-10-06,Brake Inspection,33938.06,Pending
+549,131,434,2023-08-23,Door Sensor Fault,44787.91,Pending
+550,1,196,2025-05-28,Brake Inspection,28482.57,Completed
+551,92,348,2023-10-02,Signal Check,43080.96,Pending
+552,126,246,2023-10-30,Door Sensor Fault,45720.51,Completed
+553,15,151,2023-02-14,AC Repair,42243.9,Completed
+554,97,145,2024-05-14,AC Repair,24031.71,Completed
+555,46,124,2024-09-24,AC Repair,23708.79,Completed
+556,127,112,2024-12-18,Brake Inspection,17580.64,Pending
+557,21,285,2025-02-17,AC Repair,23975.29,Pending
+558,91,449,2024-03-20,Signal Check,31375.92,Completed
+559,150,240,2024-04-21,Door Sensor Fault,1106.73,Pending
+560,114,240,2025-08-10,Signal Check,34424.75,Pending
+561,2,171,2025-09-15,AC Repair,34477.72,Pending
+562,113,330,2024-07-10,Door Sensor Fault,15506.56,Completed
+563,29,174,2025-02-20,Signal Check,40650.3,Completed
+564,56,427,2024-09-07,Wheel Alignment,14033.45,Completed
+565,9,165,2024-06-05,AC Repair,46428.38,Pending
+566,1,187,2025-09-21,Signal Check,27747.48,Completed
+567,27,329,2023-10-02,Brake Inspection,33990.45,Pending
+568,56,52,2025-07-02,Door Sensor Fault,4330.58,Completed
+569,91,353,2024-04-01,Door Sensor Fault,34922.65,Completed
+570,126,346,2025-09-12,Brake Inspection,5560.1,Pending
+571,98,357,2023-09-28,AC Repair,3008.13,Completed
+572,80,264,2023-06-13,Wheel Alignment,33684.51,Completed
+573,35,495,2024-09-15,Signal Check,46660.67,Pending
+574,124,59,2024-10-25,Brake Inspection,44962.12,Pending
+575,70,315,2024-09-28,Signal Check,6543.19,Completed
+576,148,30,2023-06-25,Wheel Alignment,12374.9,Completed
+577,129,15,2023-03-03,Brake Inspection,21006.89,Pending
+578,145,78,2023-05-01,Brake Inspection,43915.09,Pending
+579,149,287,2023-01-25,AC Repair,6402.42,Pending
+580,98,189,2023-01-19,Door Sensor Fault,1501.79,Completed
+581,110,168,2024-03-28,Brake Inspection,38925.35,Completed
+582,54,129,2025-04-10,Signal Check,40916.16,Completed
+583,90,249,2025-08-07,AC Repair,48108.76,Pending
+584,94,166,2023-08-16,Door Sensor Fault,11423.81,Pending
+585,19,229,2025-01-31,Door Sensor Fault,16318.7,Pending
+586,70,229,2025-03-27,AC Repair,1560.63,Pending
+587,79,495,2025-07-10,Signal Check,28008.89,Pending
+588,24,212,2025-07-07,AC Repair,38690.3,Completed
+589,3,196,2024-03-07,Door Sensor Fault,8243.86,Completed
+590,23,366,2023-10-23,Brake Inspection,20983.48,Completed
+591,4,360,2025-07-05,AC Repair,8462.17,Completed
+592,31,485,2024-08-14,Door Sensor Fault,27425.76,Pending
+593,77,105,2024-03-09,AC Repair,3373.35,Pending
+594,149,438,2025-01-26,Signal Check,32943.56,Completed
+595,99,124,2023-12-29,Brake Inspection,47715.36,Completed
+596,1,299,2024-05-27,AC Repair,25581.58,Pending
+597,5,73,2023-01-07,Signal Check,27464.8,Completed
+598,3,349,2023-07-03,Door Sensor Fault,29825.81,Completed
+599,80,414,2025-05-21,Brake Inspection,2329.01,Pending
+600,11,87,2024-10-17,AC Repair,23849.29,Completed
+601,24,311,2023-09-18,Brake Inspection,1587.84,Pending
+602,143,355,2023-02-01,AC Repair,29038.19,Pending
+603,149,9,2023-07-05,Door Sensor Fault,28397.89,Completed
+604,39,420,2024-11-07,Signal Check,27304,Pending
+605,93,253,2023-11-19,AC Repair,35862.87,Pending
+606,23,162,2024-12-19,AC Repair,19719.87,Pending
+607,16,150,2024-08-06,Door Sensor Fault,7765.67,Pending
+608,18,176,2025-02-08,Door Sensor Fault,23697.98,Pending
+609,149,310,2024-01-28,Wheel Alignment,33254.29,Pending
+610,107,89,2023-06-26,Door Sensor Fault,44549.53,Pending
+611,6,40,2023-01-02,Signal Check,49121.17,Completed
+612,98,317,2023-04-16,AC Repair,8891.18,Pending
+613,7,418,2023-03-19,Brake Inspection,4342.45,Completed
+614,140,490,2023-10-17,Wheel Alignment,35016.57,Completed
+615,4,457,2023-03-04,Brake Inspection,34092.68,Pending
+616,135,72,2024-11-10,AC Repair,9916.54,Completed
+617,52,194,2025-06-28,Wheel Alignment,14188.69,Pending
+618,148,153,2024-01-21,Door Sensor Fault,49408.14,Pending
+619,44,288,2023-12-14,AC Repair,49210.43,Completed
+620,77,408,2024-09-12,Signal Check,2988.39,Pending
+621,69,224,2023-04-13,Brake Inspection,26419.03,Completed
+622,139,72,2024-10-01,Brake Inspection,9085.73,Pending
+623,11,297,2025-09-06,Brake Inspection,17898.08,Pending
+624,98,355,2024-10-22,Door Sensor Fault,5157.54,Pending
+625,136,401,2024-06-14,AC Repair,40266.22,Completed
+626,71,41,2025-08-11,Signal Check,27145.09,Completed
+627,91,383,2024-11-07,Wheel Alignment,48474.57,Completed
+628,37,274,2023-05-05,Door Sensor Fault,48933.72,Completed
+629,14,15,2025-06-07,Door Sensor Fault,28447.44,Pending
+630,107,196,2023-03-28,Wheel Alignment,24547.47,Pending
+631,77,215,2023-08-08,Signal Check,33912.31,Completed
+632,34,160,2025-05-31,Brake Inspection,42520.67,Completed
+633,5,341,2025-05-18,AC Repair,5727.64,Completed
+634,66,71,2024-08-12,Door Sensor Fault,43349.61,Completed
+635,86,41,2023-05-20,Door Sensor Fault,5089.25,Completed
+636,13,371,2024-06-28,Signal Check,30109.77,Pending
+637,17,488,2024-06-17,Door Sensor Fault,26162.75,Pending
+638,19,270,2024-06-02,Brake Inspection,33720.19,Pending
+639,113,56,2023-10-09,Signal Check,2157.46,Completed
+640,100,236,2023-01-24,Door Sensor Fault,25197.62,Completed
+641,21,286,2023-04-26,Signal Check,13058.85,Completed
+642,43,183,2025-02-08,Brake Inspection,29373.05,Pending
+643,76,365,2023-10-29,Signal Check,31552.42,Pending
+644,11,335,2025-04-05,Signal Check,5195.24,Pending
+645,114,418,2023-06-08,Door Sensor Fault,15350.7,Pending
+646,76,186,2024-02-27,Signal Check,24849.08,Pending
+647,35,405,2023-04-05,Brake Inspection,11116.78,Completed
+648,63,181,2024-05-01,Wheel Alignment,2777.21,Pending
+649,116,145,2023-07-10,AC Repair,12321.06,Pending
+650,38,63,2024-10-29,AC Repair,28442.08,Completed
+651,20,166,2024-12-16,Door Sensor Fault,34203.49,Pending
+652,10,44,2025-07-16,Wheel Alignment,29959.34,Completed
+653,76,349,2023-12-25,Door Sensor Fault,17341.93,Pending
+654,28,473,2025-08-13,Signal Check,41924.86,Pending
+655,133,112,2025-08-23,AC Repair,48901.13,Completed
+656,21,152,2023-01-31,Door Sensor Fault,20569.23,Completed
+657,43,152,2023-09-06,Wheel Alignment,44957.22,Pending
+658,87,442,2023-11-23,Brake Inspection,38337.34,Completed
+659,58,459,2025-08-20,Signal Check,24968.97,Completed
+660,62,242,2023-02-17,Door Sensor Fault,11411.74,Pending
+661,23,83,2025-01-12,AC Repair,21200.48,Completed
+662,129,411,2023-04-20,Signal Check,26490.39,Pending
+663,14,219,2025-01-04,Door Sensor Fault,48048.09,Pending
+664,9,492,2023-08-16,Door Sensor Fault,37352.18,Completed
+665,148,213,2024-12-25,AC Repair,38861.39,Completed
+666,87,465,2023-06-28,Wheel Alignment,46987.03,Pending
+667,36,279,2023-05-21,Signal Check,30991.15,Pending
+668,18,115,2025-02-27,Door Sensor Fault,6215.37,Completed
+669,141,428,2025-04-24,Brake Inspection,27783.2,Completed
+670,123,488,2024-04-20,AC Repair,1103.34,Completed
+671,27,455,2025-05-29,Signal Check,44143.11,Pending
+672,45,182,2024-03-06,Door Sensor Fault,4067.13,Pending
+673,120,185,2023-12-28,AC Repair,24036.78,Completed
+674,137,112,2025-09-16,Wheel Alignment,21877.23,Pending
+675,95,54,2024-06-04,Wheel Alignment,28967.08,Pending
+676,123,448,2025-08-14,Brake Inspection,33341.42,Pending
+677,1,306,2024-02-16,Signal Check,29114.05,Completed
+678,132,442,2025-09-23,Signal Check,26876.05,Pending
+679,2,228,2024-02-09,Signal Check,42690.06,Pending
+680,92,42,2025-01-13,Brake Inspection,28926.82,Pending
+681,111,324,2025-08-02,Signal Check,11569.59,Completed
+682,96,74,2025-03-12,Door Sensor Fault,24464.89,Completed
+683,29,32,2023-11-22,Door Sensor Fault,11810.36,Completed
+684,44,9,2024-01-29,Brake Inspection,37021.78,Completed
+685,102,82,2025-04-09,AC Repair,25140.11,Pending
+686,149,471,2023-01-25,Wheel Alignment,47946.36,Pending
+687,22,394,2025-07-03,Wheel Alignment,27825.93,Completed
+688,3,99,2024-08-17,Door Sensor Fault,25654.74,Completed
+689,93,203,2023-05-29,Signal Check,45389.11,Pending
+690,125,469,2024-01-28,Signal Check,10795.25,Completed
+691,111,278,2024-06-07,AC Repair,19318.41,Completed
+692,94,334,2024-07-04,Signal Check,26534.85,Pending
+693,86,151,2024-11-08,Brake Inspection,24928.71,Completed
+694,88,327,2024-02-05,Signal Check,22828.05,Pending
+695,19,55,2024-09-23,Signal Check,28633.23,Pending
+696,124,185,2025-05-26,Door Sensor Fault,28839.51,Completed
+697,42,105,2025-09-10,Signal Check,8419.94,Completed
+698,137,409,2024-08-18,Brake Inspection,40359.74,Pending
+699,32,265,2025-06-13,Brake Inspection,34978.32,Completed
+700,35,307,2025-02-28,Signal Check,37226.03,Pending
+701,138,243,2024-09-13,Brake Inspection,30220.85,Completed
+702,27,159,2025-01-03,AC Repair,35418.94,Completed
+703,4,105,2023-08-14,Brake Inspection,3297.46,Pending
+704,23,231,2023-11-25,Door Sensor Fault,18223.87,Completed
+705,15,257,2023-07-23,Brake Inspection,13084.52,Completed
+706,111,438,2023-06-10,Signal Check,46842.71,Pending
+707,92,311,2023-11-15,Brake Inspection,11702.44,Completed
+708,32,12,2023-06-23,Door Sensor Fault,12852.56,Pending
+709,63,278,2023-01-13,AC Repair,39400.25,Completed
+710,80,115,2023-08-09,AC Repair,2304.83,Pending
+711,11,23,2023-08-24,Door Sensor Fault,32546.4,Completed
+712,28,230,2023-12-23,Signal Check,6874.67,Completed
+713,76,245,2023-06-28,AC Repair,5396.63,Pending
+714,122,386,2023-12-11,Signal Check,23913.05,Completed
+715,20,150,2025-04-28,Signal Check,11444.5,Pending
+716,114,185,2024-07-04,Wheel Alignment,25024.11,Pending
+717,30,284,2024-02-01,AC Repair,48470.91,Completed
+718,101,213,2023-10-13,Signal Check,1011,Completed
+719,17,122,2025-02-19,Door Sensor Fault,22628.42,Pending
+720,54,266,2023-01-14,AC Repair,3536.58,Pending
+721,62,352,2024-11-01,Signal Check,36519.4,Completed
+722,30,468,2023-03-17,Signal Check,49358.35,Completed
+723,147,354,2024-09-05,AC Repair,39852.39,Completed
+724,91,74,2023-05-17,Signal Check,20618.32,Pending
+725,34,498,2024-03-07,AC Repair,3988.43,Completed
+726,110,285,2024-05-04,Signal Check,14603.23,Pending
+727,2,428,2024-11-09,AC Repair,3844.03,Pending
+728,40,194,2024-01-15,Wheel Alignment,10757.5,Completed
+729,56,376,2023-04-01,Signal Check,36793.91,Completed
+730,14,155,2024-08-04,AC Repair,47115.52,Completed
+731,81,74,2024-03-01,Door Sensor Fault,8803.87,Pending
+732,35,388,2023-01-12,Brake Inspection,29796.8,Pending
+733,124,371,2024-11-15,Door Sensor Fault,48602.65,Completed
+734,69,79,2024-02-26,Signal Check,38160.54,Completed
+735,97,280,2024-05-04,Door Sensor Fault,27120.7,Pending
+736,86,45,2023-12-07,Signal Check,28233.91,Pending
+737,23,486,2023-04-30,Brake Inspection,26453.8,Completed
+738,41,39,2025-03-23,Door Sensor Fault,13628.77,Completed
+739,90,492,2025-01-13,Door Sensor Fault,20246.59,Completed
+740,54,190,2024-10-17,Signal Check,46542.81,Completed
+741,89,432,2025-09-16,Door Sensor Fault,29832.95,Pending
+742,56,391,2025-08-08,Brake Inspection,41315.67,Completed
+743,1,372,2025-02-27,Brake Inspection,26252.68,Completed
+744,46,179,2024-04-12,AC Repair,31715.6,Pending
+745,120,294,2024-08-31,AC Repair,7853.27,Pending
+746,95,141,2025-09-02,Door Sensor Fault,22130.24,Pending
+747,118,329,2023-07-30,Signal Check,34071.93,Completed
+748,19,340,2025-07-14,Brake Inspection,17739.57,Completed
+749,13,252,2024-08-19,Signal Check,38530.8,Completed
+750,93,164,2023-08-04,AC Repair,24222.29,Pending
+751,144,135,2023-01-06,Brake Inspection,8558.64,Pending
+752,70,356,2024-08-26,Wheel Alignment,32458.64,Completed
+753,129,324,2024-07-04,Door Sensor Fault,4929.62,Pending
+754,135,124,2023-02-11,Brake Inspection,25658.64,Completed
+755,76,445,2025-01-04,Brake Inspection,10503.58,Pending
+756,72,435,2024-03-31,Wheel Alignment,45584.7,Pending
+757,5,418,2023-06-13,Brake Inspection,41659.46,Completed
+758,49,135,2023-08-02,Signal Check,37512.85,Pending
+759,139,435,2025-02-25,AC Repair,22275.96,Completed
+760,139,120,2024-06-12,Wheel Alignment,43409.76,Pending
+761,137,86,2023-06-19,Signal Check,45127.26,Completed
+762,41,48,2023-09-28,AC Repair,42394.89,Completed
+763,66,418,2024-04-04,Brake Inspection,1930.17,Pending
+764,127,188,2023-02-03,Signal Check,15998.57,Pending
+765,39,66,2024-11-24,Signal Check,40442.42,Pending
+766,89,83,2023-01-27,Signal Check,33663.61,Completed
+767,105,157,2023-02-28,Door Sensor Fault,47640.82,Pending
+768,125,31,2023-04-26,AC Repair,23865.75,Pending
+769,92,182,2024-02-15,Wheel Alignment,47391.45,Pending
+770,39,351,2024-05-15,AC Repair,12279.62,Completed
+771,138,107,2023-09-26,AC Repair,2531.87,Completed
+772,73,60,2025-01-28,AC Repair,37785.08,Completed
+773,16,281,2024-05-31,Signal Check,20505.22,Pending
+774,7,302,2024-01-27,Wheel Alignment,49548,Pending
+775,116,186,2024-08-20,Door Sensor Fault,43832.22,Completed
+776,106,132,2023-02-09,AC Repair,37992.15,Pending
+777,147,183,2024-03-09,Door Sensor Fault,26825.24,Completed
+778,12,55,2023-05-01,Brake Inspection,25613.26,Pending
+779,81,474,2023-05-14,Brake Inspection,24171.41,Pending
+780,118,399,2025-03-18,Door Sensor Fault,22462.49,Completed
+781,124,163,2023-09-08,Door Sensor Fault,24545.49,Pending
+782,22,66,2025-04-30,Signal Check,40668.5,Pending
+783,38,281,2023-06-11,Brake Inspection,27315.51,Pending
+784,120,474,2024-03-19,Signal Check,9201.31,Pending
+785,48,357,2024-08-18,AC Repair,9026.4,Pending
+786,107,368,2023-10-10,Signal Check,41234.62,Pending
+787,149,391,2025-09-24,Wheel Alignment,14610.33,Pending
+788,55,328,2023-03-19,Door Sensor Fault,7516.67,Completed
+789,140,235,2024-07-01,Brake Inspection,23152.09,Completed
+790,132,239,2023-06-20,AC Repair,41283.25,Completed
+791,81,279,2023-09-25,Wheel Alignment,13383.77,Completed
+792,69,211,2024-11-15,Door Sensor Fault,47691.88,Completed
+793,139,244,2025-05-07,AC Repair,48467.5,Completed
+794,21,461,2025-05-16,Wheel Alignment,49481.3,Completed
+795,23,7,2023-05-17,Door Sensor Fault,3682.78,Pending
+796,112,343,2024-03-28,Brake Inspection,11242.65,Completed
+797,81,290,2024-04-04,AC Repair,49434.43,Completed
+798,145,141,2024-07-15,Wheel Alignment,6831.04,Completed
+799,146,15,2024-09-18,Door Sensor Fault,6230.44,Completed
+800,115,149,2025-03-29,Brake Inspection,22297.9,Pending
+801,123,427,2025-04-18,Wheel Alignment,21058.93,Pending
+802,106,431,2024-08-27,Signal Check,22286.76,Completed
+803,124,153,2023-01-14,Brake Inspection,32827.01,Pending
+804,108,284,2023-02-21,Signal Check,39580.79,Completed
+805,144,18,2025-05-04,Wheel Alignment,10042.49,Completed
+806,130,289,2023-06-11,AC Repair,33270.93,Completed
+807,50,171,2024-12-28,AC Repair,13966.82,Pending
+808,59,285,2024-04-18,Brake Inspection,14876.79,Pending
+809,48,266,2023-01-21,AC Repair,44612.98,Completed
+810,13,194,2023-09-25,AC Repair,35796.84,Pending
+811,64,430,2023-06-02,Door Sensor Fault,41963.12,Pending
+812,103,345,2024-05-10,Wheel Alignment,44548.98,Pending
+813,113,357,2025-05-21,Brake Inspection,22287.04,Completed
+814,12,79,2024-04-02,Brake Inspection,26551.16,Pending
+815,34,366,2025-07-10,Door Sensor Fault,45697.17,Pending
+816,15,437,2023-06-11,Door Sensor Fault,3859.86,Completed
+817,105,4,2025-08-03,Door Sensor Fault,1028.32,Pending
+818,30,329,2023-06-12,Door Sensor Fault,19089.59,Completed
+819,4,171,2025-02-27,Brake Inspection,22026.73,Completed
+820,86,171,2025-02-25,Wheel Alignment,32373.19,Completed
+821,75,298,2023-12-13,Wheel Alignment,21757.03,Pending
+822,93,70,2023-11-29,Door Sensor Fault,21880.25,Completed
+823,13,134,2023-05-11,Door Sensor Fault,30552.24,Pending
+824,7,244,2024-10-05,Door Sensor Fault,29535.35,Completed
+825,130,34,2023-01-10,AC Repair,42614.87,Pending
+826,146,424,2025-06-20,Signal Check,4244.4,Completed
+827,75,124,2024-02-16,AC Repair,20671.24,Completed
+828,23,98,2023-02-01,Signal Check,6242.89,Pending
+829,72,139,2025-02-19,Wheel Alignment,23433.71,Pending
+830,64,479,2024-09-14,Brake Inspection,19084.06,Completed
+831,115,6,2023-09-22,Brake Inspection,44067.88,Completed
+832,111,500,2023-06-04,AC Repair,37497.48,Completed
+833,146,111,2025-02-10,Door Sensor Fault,31263.9,Completed
+834,31,218,2023-05-26,AC Repair,34930.38,Pending
+835,42,25,2023-03-09,Wheel Alignment,34203.74,Completed
+836,53,323,2023-04-06,Brake Inspection,25329.07,Completed
+837,107,105,2025-07-30,Wheel Alignment,25465.84,Completed
+838,124,416,2025-09-08,AC Repair,24171.87,Pending
+839,4,64,2024-11-21,Signal Check,39382.47,Completed
+840,56,418,2025-03-19,Signal Check,10365.26,Pending
+841,2,15,2024-04-11,Wheel Alignment,1195.74,Pending
+842,71,5,2023-10-31,AC Repair,40029.92,Pending
+843,136,422,2023-08-07,Wheel Alignment,48489.51,Completed
+844,100,341,2025-09-10,Door Sensor Fault,1380.07,Pending
+845,37,427,2023-11-29,Wheel Alignment,42715.41,Pending
+846,23,392,2023-08-01,AC Repair,7184.12,Completed
+847,50,261,2023-04-22,Door Sensor Fault,47417.19,Pending
+848,29,103,2025-04-26,Wheel Alignment,48713.29,Completed
+849,66,449,2024-07-30,Signal Check,42616.88,Pending
+850,126,396,2024-12-03,Door Sensor Fault,31607.4,Pending
+851,144,188,2024-04-21,Wheel Alignment,47765.75,Completed
+852,95,425,2024-08-09,Wheel Alignment,29308.56,Completed
+853,149,420,2024-04-17,Door Sensor Fault,46202.71,Completed
+854,90,450,2024-07-03,Wheel Alignment,15604.28,Completed
+855,19,370,2023-07-31,Brake Inspection,49521.16,Pending
+856,13,458,2024-03-29,Door Sensor Fault,47865.48,Completed
+857,124,47,2024-03-18,AC Repair,33501.08,Completed
+858,86,72,2025-02-04,Brake Inspection,37013.85,Pending
+859,132,290,2025-06-23,Signal Check,20890.82,Pending
+860,124,287,2023-01-23,Wheel Alignment,9745.85,Pending
+861,145,120,2023-04-07,Wheel Alignment,3110.32,Completed
+862,118,483,2025-04-01,AC Repair,45713.92,Pending
+863,38,354,2024-08-16,Brake Inspection,16082.53,Pending
+864,2,381,2025-04-09,Brake Inspection,14063.56,Completed
+865,21,43,2023-04-14,Brake Inspection,42447.55,Pending
+866,74,345,2024-08-08,Signal Check,28236.75,Completed
+867,76,445,2024-08-07,AC Repair,32567.9,Completed
+868,79,254,2024-11-20,Signal Check,37645.09,Pending
+869,98,332,2024-01-04,Signal Check,25378.58,Completed
+870,132,88,2024-01-05,Door Sensor Fault,41022.5,Pending
+871,105,209,2023-04-21,Door Sensor Fault,6952.23,Completed
+872,114,242,2023-09-22,Brake Inspection,19871.82,Pending
+873,148,264,2024-05-18,Signal Check,21124.77,Completed
+874,54,478,2023-03-31,Signal Check,33697.26,Completed
+875,71,174,2024-11-11,Wheel Alignment,17773.28,Pending
+876,5,57,2023-11-08,Wheel Alignment,40632.58,Pending
+877,44,287,2025-08-15,Door Sensor Fault,16940.88,Pending
+878,98,419,2025-04-24,Door Sensor Fault,7779,Completed
+879,34,363,2025-08-26,AC Repair,47299.84,Pending
+880,31,352,2025-06-19,Signal Check,35270.44,Pending
+881,143,100,2024-06-30,Door Sensor Fault,15583.47,Pending
+882,54,164,2025-06-13,Wheel Alignment,37938.91,Pending
+883,9,109,2023-11-07,Wheel Alignment,48133.84,Completed
+884,85,398,2025-01-25,Signal Check,32543.99,Completed
+885,10,483,2025-08-14,Door Sensor Fault,3215.62,Pending
+886,33,31,2024-08-19,Door Sensor Fault,22771.51,Pending
+887,129,364,2023-05-02,AC Repair,39891.64,Pending
+888,108,337,2023-09-05,Wheel Alignment,35994.99,Pending
+889,99,305,2025-09-06,Signal Check,26476.58,Pending
+890,1,151,2024-07-01,Brake Inspection,35009.15,Completed
+891,27,423,2024-03-10,Signal Check,39062.13,Completed
+892,18,308,2023-09-21,Door Sensor Fault,30799.82,Completed
+893,38,127,2024-10-03,AC Repair,8839.9,Pending
+894,109,487,2024-06-02,Wheel Alignment,39983,Pending
+895,62,99,2024-09-14,AC Repair,11892.3,Completed
+896,25,385,2023-09-29,AC Repair,39695.88,Pending
+897,102,362,2024-10-11,Door Sensor Fault,46966.3,Pending
+898,88,176,2024-05-12,Wheel Alignment,18531.91,Completed
+899,142,397,2025-03-16,AC Repair,3095.11,Completed
+900,65,418,2024-08-16,Door Sensor Fault,39591.08,Completed
+901,58,328,2025-09-22,Wheel Alignment,6045.5,Pending
+902,91,32,2024-02-19,Door Sensor Fault,3613.51,Completed
+903,55,456,2025-08-16,AC Repair,23328.42,Completed
+904,48,269,2025-02-13,Door Sensor Fault,32723.15,Pending
+905,48,241,2025-07-01,Wheel Alignment,4427.32,Completed
+906,18,7,2023-08-30,Brake Inspection,24529.33,Pending
+907,15,221,2024-01-09,Brake Inspection,20768.09,Pending
+908,64,347,2025-09-07,Wheel Alignment,39909.92,Completed
+909,143,159,2024-06-26,AC Repair,18629.21,Pending
+910,115,276,2023-07-15,Door Sensor Fault,44022.23,Completed
+911,37,41,2025-07-14,Door Sensor Fault,46527.23,Completed
+912,97,493,2023-02-17,Door Sensor Fault,34526.96,Pending
+913,92,206,2023-11-14,Signal Check,33513.57,Completed
+914,97,470,2023-08-05,Brake Inspection,6250.14,Completed
+915,60,209,2024-08-23,Wheel Alignment,11629.46,Pending
+916,100,100,2025-04-19,AC Repair,37658.85,Completed
+917,45,457,2023-06-05,AC Repair,29862.68,Completed
+918,1,7,2025-01-11,Signal Check,10704.45,Completed
+919,140,273,2024-12-11,Brake Inspection,32376.66,Pending
+920,130,217,2025-08-22,Brake Inspection,48248.88,Completed
+921,77,183,2024-03-28,Door Sensor Fault,19045.24,Pending
+922,129,151,2023-12-11,AC Repair,18408.74,Completed
+923,55,440,2024-06-15,Brake Inspection,12805.09,Pending
+924,147,98,2023-09-16,Door Sensor Fault,8895.28,Completed
+925,112,317,2024-10-09,Wheel Alignment,37015.76,Completed
+926,92,305,2024-07-21,AC Repair,20671.32,Pending
+927,22,325,2023-07-26,AC Repair,33834.53,Completed
+928,33,264,2023-09-13,AC Repair,29261.98,Completed
+929,119,171,2024-03-28,Signal Check,15054.57,Completed
+930,73,336,2024-02-17,Wheel Alignment,12220.04,Completed
+931,74,470,2025-06-05,Signal Check,21484.39,Completed
+932,114,397,2024-04-06,Wheel Alignment,10350.08,Completed
+933,73,305,2025-06-10,Signal Check,45328.54,Completed
+934,10,394,2024-06-28,AC Repair,27337.43,Completed
+935,82,209,2025-06-26,Wheel Alignment,25349.46,Completed
+936,5,425,2024-03-24,Signal Check,17508.2,Pending
+937,94,189,2023-09-22,Wheel Alignment,22122.85,Pending
+938,74,399,2024-05-01,Signal Check,2946.68,Completed
+939,6,300,2024-09-24,AC Repair,20911.54,Pending
+940,44,45,2025-07-16,AC Repair,8939.88,Completed
+941,79,23,2025-04-05,AC Repair,2343.51,Completed
+942,49,219,2024-05-21,Wheel Alignment,21275.21,Pending
+943,38,211,2024-05-09,Door Sensor Fault,6849.04,Completed
+944,124,340,2025-05-07,Brake Inspection,17867.93,Completed
+945,19,368,2023-03-11,Signal Check,41858.14,Pending
+946,50,10,2024-08-04,Brake Inspection,12456.04,Completed
+947,3,474,2024-12-08,Signal Check,23645.14,Completed
+948,125,178,2023-08-30,Brake Inspection,41276.71,Pending
+949,150,429,2023-02-13,AC Repair,2322.79,Completed
+950,32,107,2025-01-02,Door Sensor Fault,4366.81,Completed
+951,84,200,2025-06-25,Signal Check,29664.13,Completed
+952,132,146,2024-11-02,AC Repair,37947.41,Pending
+953,48,390,2023-04-12,Door Sensor Fault,19118.51,Completed
+954,96,455,2024-04-29,Door Sensor Fault,49489.08,Pending
+955,33,64,2024-12-27,AC Repair,27485.55,Pending
+956,57,2,2025-01-12,Brake Inspection,42419.23,Pending
+957,79,411,2025-05-29,Signal Check,11675.03,Pending
+958,50,326,2024-06-19,Wheel Alignment,21693.9,Pending
+959,109,148,2023-04-29,Signal Check,1073.24,Pending
+960,10,478,2023-02-09,Wheel Alignment,26334.11,Pending
+961,1,289,2024-09-18,Wheel Alignment,43286.17,Pending
+962,70,283,2023-02-12,AC Repair,13129.84,Completed
+963,130,398,2025-08-19,Brake Inspection,19454.9,Completed
+964,107,416,2023-12-26,Wheel Alignment,9102.4,Completed
+965,117,269,2025-01-26,Door Sensor Fault,11899.72,Pending
+966,73,101,2023-04-25,Signal Check,27619.52,Completed
+967,51,176,2025-06-07,Door Sensor Fault,13767.35,Completed
+968,57,352,2024-01-04,AC Repair,2882.55,Completed
+969,32,303,2025-09-19,Wheel Alignment,25284.69,Pending
+970,113,37,2024-06-22,Brake Inspection,9540.94,Pending
+971,100,351,2024-01-02,Wheel Alignment,33606.07,Pending
+972,122,57,2025-03-27,Brake Inspection,7907.4,Completed
+973,69,107,2024-11-05,Signal Check,4022.19,Completed
+974,129,56,2024-02-14,Brake Inspection,8055.66,Completed
+975,18,62,2025-09-09,Wheel Alignment,26072.38,Completed
+976,37,5,2023-01-11,Door Sensor Fault,43100.73,Pending
+977,111,204,2023-08-17,Brake Inspection,1670.33,Completed
+978,89,274,2025-04-17,Brake Inspection,43532.07,Pending
+979,118,14,2023-04-22,Brake Inspection,21692.52,Completed
+980,43,87,2025-08-31,Signal Check,48545.49,Pending
+981,139,175,2023-05-13,Door Sensor Fault,32302.31,Pending
+982,4,207,2024-11-03,Wheel Alignment,16470.41,Completed
+983,23,333,2025-08-31,AC Repair,40201.23,Completed
+984,20,90,2025-02-14,Wheel Alignment,20805.98,Pending
+985,84,26,2023-07-02,Wheel Alignment,4753.84,Completed
+986,58,95,2025-03-30,AC Repair,30621.49,Pending
+987,123,320,2024-03-12,Wheel Alignment,23955.46,Completed
+988,150,118,2023-04-13,Signal Check,12186.29,Completed
+989,88,439,2024-06-02,Door Sensor Fault,39786.03,Pending
+990,101,231,2023-01-18,Brake Inspection,27884.83,Completed
+991,10,386,2023-06-28,Door Sensor Fault,23688.95,Pending
+992,132,242,2024-11-08,Door Sensor Fault,26747.97,Pending
+993,27,107,2025-09-19,Door Sensor Fault,42836.86,Pending
+994,67,230,2024-08-03,Wheel Alignment,25229.48,Completed
+995,107,299,2025-03-17,Signal Check,40179.11,Completed
+996,22,31,2025-09-01,Brake Inspection,15323.59,Completed
+997,87,444,2024-09-18,Door Sensor Fault,36032.74,Pending
+998,92,455,2024-07-08,Door Sensor Fault,9864.96,Completed
+999,39,355,2024-03-03,Signal Check,23102.89,Completed
+1000,111,1,2024-05-21,Brake Inspection,31877.39,Pending
