@@ -79,7 +79,8 @@ The project demonstrates database design, SQL programming, performance optimizat
 - Git & GitHub
 
 ---
-
+## ER Diagram
+Metro_Rail_ER_Diagram.png
 
 ---
 
