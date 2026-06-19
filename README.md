@@ -85,4 +85,4 @@ The project demonstrates database design, SQL programming, performance optimizat
 
 ## Author
 
-Ranjithkumar
+Ranjithkumar Aspiring Data Analyst | SQL | Excel | Power BI | GitHub
