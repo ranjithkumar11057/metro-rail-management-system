@@ -80,9 +80,6 @@ The project demonstrates database design, SQL programming, performance optimizat
 
 ---
 
-## ER Diagram
-
-(Add ER_Diagram.png here)
 
 ---
 
